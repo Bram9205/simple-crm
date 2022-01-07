@@ -16,7 +16,7 @@
 
         <!-- Code dependencies-->
         <org.apache.logging.log4j.version>2.13.1</org.apache.logging.log4j.version>
-        <com.h2database.version>1.4.200</com.h2database.version>
+        <com.h2database.version>2.0.206</com.h2database.version>
 
         <!-- Verification dependencies-->
         <org.apache.maven.surefire.version>2.22.2</org.apache.maven.surefire.version>
